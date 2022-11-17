@@ -1,0 +1,21 @@
+{
+  "name": "island-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "island dev docs",
+    "build": "island build docs",
+    "preview": "island start docs"
+  },
+  "dependencies": {
+    "islandjs": "^0.7.6"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "kaiyu.kong",
+  "license": "ISC",
+  "description": ""
+}
